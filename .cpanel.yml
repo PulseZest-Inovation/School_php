@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/xcispcjl/public_html/project/school_php
+    - export DEPLOYPATH=/home/xcispcjl/public_html/project/school_php/
     - /bin/cp * $DEPLOYPATH
